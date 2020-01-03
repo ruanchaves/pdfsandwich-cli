@@ -1,0 +1,7 @@
+languages: 'eng san'
+host: ec2-34-227-113-227.compute-1.amazonaws.com
+port: 3000
+HTTPS: false
+upload_route: 'upload'
+link_route: 'link'
+download_route: 'download'
